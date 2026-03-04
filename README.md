@@ -2,14 +2,6 @@
 
 Un portfolio moderne et immersif construit avec **React** et **Three.js**. Ce projet intègre des modèles 3D interactifs, des animations fluides et une interface responsive pour présenter tes compétences et tes projets de manière innovante.
 
-## 📋 Sommaire
-
-1. [Introduction](#introduction)
-2. [Tech Stack](#tech-stack)
-3. [Fonctionnalités](#fonctionnalités)
-4. [Installation Rapide](#installation)
-5. [Configuration](#configuration)
-
 ## 🤖 Introduction
 
 Ce projet est un portfolio de développeur haut de gamme qui utilise des bibliothèques 3D pour transformer une navigation web classique en une expérience immersive. Il démontre la capacité à manipuler des géométries complexes, des lumières et des animations dans un environnement web.
@@ -38,7 +30,7 @@ Suivez ces étapes pour installer le projet localement :
 
 1.  **Cloner le dépôt**
     ```bash
-    git clone [https://github.com/leo-na/project_3D_developer_portfolio.git](https://github.com/leo-na/project_3D_developer_portfolio.git)
+    git clone [https://github.com/leo-na/project_3D_developer_portfolio.git](https://github.com/leo-na/portfolio-3D-final.git)
     cd project_3D_developer_portfolio
     ```
 
